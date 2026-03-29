@@ -2,7 +2,7 @@
 
 A comprehensive, production-ready Python wrapper for the [Marketo REST API](https://developers.marketo.com/rest-api/) with built-in authentication management, automatic rate limiting, pagination handling, retry logic, and structured error reporting.
 
-Built by a certified Adobe Marketo Engage Architect Master & Business Practitioner Expert.
+Built by Talha Mushtaque | Certified Adobe Marketo Engage Architect Master & Business Practitioner Expert.
 
 ---
 
